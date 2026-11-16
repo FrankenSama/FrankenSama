@@ -32,5 +32,5 @@ I design and build games, tools, and systems around ideas I believe are worth ta
 
 | 🎮 Video Game Modifications | 💻 Miscellaneous Software |
 | :---: | :---: |
-| A curated list of game mods and modding tools I've starred. | A collection of other useful software and tools I've starred. |
+| A curated list of game mods focused on fixes, enhancements and funsies. | A collection of different software and tools for different purposes. |
 | **[View the list →](https://github.com/stars/FrankenSama/lists/video-game-modifications)** | **[View the list →](https://github.com/stars/FrankenSama/lists/miscellaneous-software)** |
