@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Sup, I'm Octávio Silva aka FrankenSama👋
+# Sup, I'm Octávio Silva a.k.a FrankenSama👋
 
 **Game Designer, Software Engineer & Writer**
 
