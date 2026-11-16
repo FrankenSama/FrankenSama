@@ -11,7 +11,7 @@
 I design and build games, tools, and systems around ideas I believe are worth tackling — and 9 times out of 10, they ship.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FrankenSama-181717?logo=github&logoColor=white)](https://github.com/FrankenSama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOURHANDLE](https://www.linkedin.com/in/octavio-silva-designer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-silva-designer/)
 [![itch.io](https://img.shields.io/badge/itch.io-Games-FA5C5C?logo=itchdotio&logoColor=white)](https://frankensama.itch.io/)
 
 ### 🛠 Tech & Tools
